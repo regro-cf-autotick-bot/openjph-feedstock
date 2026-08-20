@@ -16,7 +16,7 @@ source:
     - fix_aarch_old_stdlibc.patch
 
 build:
-  number: 0
+  number: 1
 
 requirements:
   build:
